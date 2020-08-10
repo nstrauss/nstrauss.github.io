@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an IT manager doing Apple related things at a K-12 public school
+district. 1:1 program, Mac, iPad, and systems engineering.   
 
-### More Information
+Probably going to write mostly about Apple device management. I hope sometimes the
+things I write are useful to you.
 
-A place to include any other types of information that you'd like to include about yourself.
+# Social Media
 
-### Contact me
+- [GitHub](https://github.com/nstrauss)
+- [Twitter](https://twitter.com/nwstrauss_)
+- [LinkedIn](https://linkedin.com/in/nathaniel-strauss) 
 
-[email@domain.com](mailto:email@domain.com)
+@nstrauss on [MacAdmins](https://www.macadmins.org/) Slack team. 
