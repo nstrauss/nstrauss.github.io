@@ -128,7 +128,7 @@ Getting the script and launch daemon place alongside a new OS install is fairly 
 ![mds](/images/mds_workflow4.png)
 ![mds](/images/mds_workflow5.png)
 
-That's the entirety of the workflow. Save to volume, disk image, or other MDS run method. I prefer to save to a disk image to serve off a web server. The script and launch daemon (or prebuilt package) can also be included in your existing `startosinstall` outside of MDS. I'm using MDS here because it's easy and others might already have availability with the tool. If using Mac Provisioner or another wrapper around `startosinstall` there's probably a way to include the package during OS install.
+That's the entirety of the workflow. Save to volume, disk image, or other MDS run method. I prefer to save to a disk image to serve off a web server. The script and launch daemon (or prebuilt package) can also be included in your existing `startosinstall` outside of MDS. I'm using MDS here because it's easy and others might already have familiarity with the tool. If using Mac Provisioner or another wrapper around `startosinstall` there's probably a way to configure it to include the package during OS install.
 
 MDS will wipe the drive, use `startosinstall` to reinstall the OS and `enrollment_config_helper.pkg` alongside it. When the Mac boots for the first time to Setup Assistant follow these steps.
 
