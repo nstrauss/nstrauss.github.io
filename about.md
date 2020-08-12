@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm an IT manager doing Apple related things at a K-12 public school
-district. 1:1 program, Mac, iPad, and systems engineering.   
+district. 1:1 program, Mac, iPad, Apple TV, and systems engineering.   
 
 Probably going to write mostly about Apple device management. I hope sometimes the
 things I write are useful to you.
