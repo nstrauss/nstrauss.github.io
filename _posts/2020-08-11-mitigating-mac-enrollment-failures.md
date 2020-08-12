@@ -74,7 +74,7 @@ If UCRT isn't available during retries, the Mac's chance to get an enrollment co
 Error fetching Device Enrollment configuration: (34006) Error Domain=MCCloudConfigurationErrorDomain Code=34006 "The cloud configuration server is unavailable." UserInfo={NSLocalizedDescription=The cloud configuration server is unavailable., CloudConfigurationErrorType=CloudConfigurationFatalError}
 ```
 
-Why then were so many of my Macs not getting UCRT? The logs consistently showed they were too hot. DAS consistently chose not to run the UCRT task because it scored thermals too high. My workflow to reliably trigger an "Absolutely Must Not Proceed" score from DAS was very simple.
+Why then were so many of my Macs not getting UCRT? The logs showed they were too hot. DAS consistently chose not to run the UCRT task because it scored thermals too high. My workflow to reliably trigger an "Absolutely Must Not Proceed" score from DAS was very simple.
 
 1. Plug the Mac into power.
 2. Boot to recovery. 
