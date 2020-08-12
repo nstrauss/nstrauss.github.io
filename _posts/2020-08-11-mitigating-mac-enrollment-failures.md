@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Mitigating T2 Mac Enrollment Failures
+title: Mitigating Mac Enrollment Failures
 date: 2020-08-11 16:47 -0500
+excerpt: While working to enroll 1,000+ Macs to prep for the start of school, we found a large number were failing to get an enrollment configuration during Setup Assistant. There were three distinct ways the process failed.
 ---
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
