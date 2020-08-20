@@ -2,7 +2,7 @@
 layout: post
 title: Big Sur Beta 5 - Still Not Education Ready
 date: 2020-08-19 20:06 -0500
-excerpt: Two months into the beta cycle, Big Sur is still not education ready. Today marks the release of beta 5 and Apple has still not implemented a solution for access to screen recording for standard users. Standard users are not able to enable screen recording.
+excerpt: Two months into the beta cycle, Big Sur is still not education ready. Today marks the release of beta 5 and Apple has not implemented a way for standard users to enable screen recording. As a result they can't share their screen with common video conferencing solutions like Webex, Zoom, Google Meet, and others.
 ---
 
 Two months into the beta cycle, Big Sur is still not education ready. Today marks the release of beta 5 and Apple has not implemented a way for standard users to enable screen recording. As a result they can't share their screen with common video conferencing solutions like Webex, Zoom, Google Meet, and others. Imagine an online class where the teacher isn't able to display a presentation or a student isn't able to show their work. During the largest shift to remote learning ever, that's the future Apple delivered in beta 1, entirely missing the mark when it comes to how a large majority of their education customers use Macs. Apple has said they have plans to introduce ways for standard users to enable screen sharing, but as of beta 5 that's not the case.
