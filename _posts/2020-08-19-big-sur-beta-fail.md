@@ -42,7 +42,7 @@ Apple's entire privacy model (TCC - transparecy, content, and control) is based 
 
 ![Chrome TCC](/images/tcc_chrome.png)
 
-But that never happens. Safari doesn't prompt for permission because the private entitlement enables it to bypass TCC altogether. Anyone, even a guest user, could share with screen through Safari without the typical hoop jumping routine required of everyone else. QuickTime and other Apple developed apps get the special private entitlement treatment too.
+But that never happens. Safari doesn't prompt for permission because the private entitlement enables it to bypass TCC altogether. Anyone, even a guest user, could share their screen through Safari without the typical hoop jumping routine required of everyone else. QuickTime and other Apple developed apps get the special private entitlement treatment too.
 
 ![QuickTime](/images/quicktime_entitlements.png)
 
