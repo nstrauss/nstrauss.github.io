@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Deploying Lightspeed Relay with Jamf Pro
+title: Deploying Lightspeed Relay Agent with Jamf Pro
 date: 2020-11-05 20:44 -0600
-excerpt: 'One of the most common questions on the [MacAdmins Slack](https://www.macadmins.org/) #lightspeed channel is, "How do I install the Relay smart agent on Macs?"'
+excerpt: One of the most common questions on the MacAdmins Slack Lightspeed channel is, "How do I install the Relay smart agent on Macs?"
 ---
 
 One of the most common questions on the [MacAdmins Slack](https://www.macadmins.org/) #lightspeed channel is, "How do I install the Relay smart agent on Macs?" Lightspeed provides [a little guidance](https://help.relay.school/en/articles/2417658-deploy-the-macos-agent-with-third-party-mdm) and [a decent overview](https://help.relay.school/en/articles/2417746-smart-agent-guide), and that works most of the time, except when it doesn't. Jamf Pro and similar 3rd party management solutions don't handle package installs within DMGs elegantly. This post aims to provide an alternative deployment method that I believe is more reliable, and that I hope Lightspeed eventually considers taking cues from.
