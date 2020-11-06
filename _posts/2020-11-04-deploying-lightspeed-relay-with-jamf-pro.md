@@ -2,7 +2,7 @@
 layout: post
 title: Deploying Lightspeed Relay with Jamf Pro
 date: 2020-11-05 20:44 -0600
-excerpt: Two months into the beta cycle, Big Sur is still not education ready. Today marks the release of beta 5 and Apple has not implemented a way for standard users to enable screen recording. As a result they can't share their screen with common video conferencing solutions like Webex, Zoom, Google Meet, and others.
+excerpt: 'One of the most common questions on the [MacAdmins Slack](https://www.macadmins.org/) #lightspeed channel is, "How do I install the Relay smart agent on Macs?"'
 ---
 
 One of the most common questions on the [MacAdmins Slack](https://www.macadmins.org/) #lightspeed channel is, "How do I install the Relay smart agent on Macs?" Lightspeed provides [a little guidance](https://help.relay.school/en/articles/2417658-deploy-the-macos-agent-with-third-party-mdm) and [a decent overview](https://help.relay.school/en/articles/2417746-smart-agent-guide), and that works most of the time, except when it doesn't. Jamf Pro and similar 3rd party management solutions don't handle package installs within DMGs elegantly. This post aims to provide an alternative deployment method that I believe is more reliable, and that I hope Lightspeed eventually considers taking cues from.
