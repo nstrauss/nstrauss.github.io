@@ -30,6 +30,6 @@ With more Mac hardware on the way who knows how long IPSWs will stay unified. Fo
 # ipsw.me
 If you're not interested in fiddling about with an "enterprise" tool like AC 2 or parsing XML, let [ipsw.me](https://ipsw.me) do the work for you. Their service [tracks new IPSWs on each release](https://twitter.com/iOSReleases) and [https://twitter.com/tssstatus](the signing status of existing versions). Remember if a IPSW is no longer being signed it's pretty much useless. It can't be used to restore/revive a Mac with the drag/drop method.
 
-This is the method I recommend for most people. Go to [https://ipsw.me/product/Mac](https://ipsw.me/product/Mac), select your Mac model (all M1 IPSWs are unified right now), and download the IPSW. Downloads from ipsw.me are using the same Apple URLs parsed from Apple's software update feed. They aren't hosted or redistributed so you can be assured you're getting real, genuine Apple generated IPSWs.
+This is the method I recommend for most people. Go to [https://ipsw.me/product/Mac](https://ipsw.me/product/Mac), select your Mac model (all M1 IPSWs are unified right now), and download the IPSW. Downloads from ipsw.me use the same Apple URLs parsed from Apple's software update feed. They aren't hosted or redistributed so you can be assured you're getting real, genuine Apple generated IPSWs.
 
 ![IPSW download](/images/ipsw-me.png)
